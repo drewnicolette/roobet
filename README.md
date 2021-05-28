@@ -10,7 +10,7 @@ Takes Hash of Game to get information about game and previous crash games
 
 ```python
 from roobet import *
-Client = crash()
+Client = Crash()
 Client.get_multiplier('c1f9e32a46429842615c9b854147a4818811ee4506b43ecb96c0615be8560c93')
 ```
 
