@@ -2,7 +2,7 @@ Metadata-Version: 2.1
 Name: roobet
 Version: 0.0.1
 Summary: Python library for querying Roobet Crash games
-Home-page: https://github.com/r3ap3rpy/udemy
+Home-page: https://github.com/drewnicolette/roobet
 Author: Drew Nicolette
 Author-email: nicolettedrew0@gmail.com
 License: MIT
