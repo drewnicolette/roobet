@@ -10,7 +10,7 @@ Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
-Description-Content-Type: text/mardown
+Description-Content-Type: text/markdown
 License-File: LICENSE
 
 Python library for querying Roobet Crash games
