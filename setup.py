@@ -1,17 +1,16 @@
 import pathlib
 from setuptools import setup
 
-HERE = pathlib.Path(__file__).parent
-
-README = (HERE / "README.md").read_text()
+with open("README.md","r") as fh:
+	long_description = fh.read()
 
 setup(
 		name = 'roobet',
-		version = '0.0.2',		
+		version = '0.0.3',		
 		author = 'Drew Nicolette',
 		author_email = 'nicolettedrew0@gmail.com',
 		description = 'Python library for querying Roobet Crash games',
-		long_description = 'Python library for querying Roobet Crash games',
+		long_description = long_description,
         long_description_content_type='text/markdown',
 		url="https://github.com/drewnicolette/roobet",
 		license = 'MIT',
