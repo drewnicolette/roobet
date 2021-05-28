@@ -18,7 +18,7 @@ setup(
 		packages = ['roobet'],
 		zip_safe = False,
 		include_package_data=True,
-		install_requires=['hashlib','hmac'],
+		install_requires=[],
       	classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
