@@ -13,7 +13,7 @@ setup(
 		description = 'Python library for querying Roobet Crash games',
 		long_description = 'Python library for querying Roobet Crash games',
         long_description_content_type='text/mardown',
-		url="https://github.com/r3ap3rpy/udemy",
+		url="https://github.com/drewnicolette/roobet",
 		license = 'MIT',
 		packages = ['roobet'],
 		zip_safe = False,
