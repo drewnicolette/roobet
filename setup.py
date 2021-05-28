@@ -7,7 +7,7 @@ README = (HERE / "README.md").read_text()
 
 setup(
 		name = 'roobet',
-		version = '0.0.1',		
+		version = '0.0.2',		
 		author = 'Drew Nicolette',
 		author_email = 'nicolettedrew0@gmail.com',
 		description = 'Python library for querying Roobet Crash games',
