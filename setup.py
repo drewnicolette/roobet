@@ -12,7 +12,7 @@ setup(
 		author_email = 'nicolettedrew0@gmail.com',
 		description = 'Python library for querying Roobet Crash games',
 		long_description = 'Python library for querying Roobet Crash games',
-        long_description_content_type='text/mardown',
+        long_description_content_type='text/markdown',
 		url="https://github.com/drewnicolette/roobet",
 		license = 'MIT',
 		packages = ['roobet'],
